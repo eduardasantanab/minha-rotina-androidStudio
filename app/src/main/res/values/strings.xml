@@ -1,0 +1,33 @@
+<resources>
+<string name="app_name">
+    Minha Rotina
+</string>
+
+<string name="name_text">
+    <bold>Maria Eduarda Santana da Silva Barros</bold>
+</string>
+
+<string name="signature_text">\nSou Maria Eduarda, Estudante do 5º período de Ciência da Computação,
+    na Universidade Católica de Pernambuco, e atualmente a minha rotina dedica-se majoritariamente
+    aos\naspectos de desenvolvimento profissional e pessoal. Por esse motivo, me faço presente com
+    bastante frequência na biblioteca\nda UNICAP, para organizar e realizar com qualidade
+    as minhas\natividades nas disciplinas de:\n</string>
+
+<string name="list">
+    <lista>
+        <item>* Programação Web e Mobile\n</item>
+        <item> * Redes de Computadores\n</item>
+        <item> * Grafos\n</item>
+        <item> * Banco de Dados I\n</item>
+        <item> * Sistemas Operacionais I\n</item>
+        <item> * Engenharia de Software I\n</item>
+    </lista>
+</string>
+
+<string name="text_part">, que fazem parte do período universitário o qual estou cursando. Mas, como
+    forma de complementar o ganho de conhecimento acadêmico, faço parte de um projeto de pequisa e
+    iniciação científica, que reforça conceitos em aplicações tecnológicas relacionadas ao uso de Deep
+    Learning e Redes Neurais em classificações de imagens médicas de mamografia. Além disso, consigo ainda
+    me dedicar a estudos teóricos para provas técnicas de concursos públicos.
+</string>
+</resources>
