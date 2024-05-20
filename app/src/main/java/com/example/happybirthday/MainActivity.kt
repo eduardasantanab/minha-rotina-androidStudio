@@ -24,7 +24,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.happybirthday.ui.theme.MyRoutineTheme
 
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -100,9 +99,7 @@ fun GreetingImage(message: String, from: String, modifier: Modifier = Modifier) 
             )
         }
     }
-
 }
-
 
 @Preview(showBackground = false)
 @Composable
